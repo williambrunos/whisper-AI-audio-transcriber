@@ -58,3 +58,7 @@ pip install -r requirements.txt
 ````bash
 python main.py
 ````
+
+## References
+
+[OpenAI Speech to Text](https://platform.openai.com/docs/guides/speech-to-text)
