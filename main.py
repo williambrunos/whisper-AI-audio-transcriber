@@ -10,7 +10,7 @@ transcription = client.audio.transcriptions.create(
   model="whisper-1", 
   file=audio_file, 
   response_format="text",
-  language="pt"
+  language="pt" # Change to the language of the audio file
 )
 
 # Salvar a transcrição em um arquivo .txt
